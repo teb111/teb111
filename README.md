@@ -1,3 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/teb/image/upload/v1639262478/samples/alex-tXYg4Zx7kSU-unsplash_pekvnl.jpg">
+
+
 ### Hi there 👋
 
 #### Hi, my name is
@@ -34,3 +37,5 @@ Here are some ideas to get you started:
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
