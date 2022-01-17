@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teb111)](https://github.com/teb111/github-readme-stats)
 
 ### Have a little peak of the type of songs i listen to
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ozoc0nw0j24yfbraisj2u2m4u)
