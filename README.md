@@ -7,7 +7,7 @@
 
 # OLUWA TOBILOBA
 
-I am a Front-End Software Engineer
+I am a Software Engineer
 
 I'm a software engineer based in Lagos Nigeria, specializing in building high performant websites and applications.
 
