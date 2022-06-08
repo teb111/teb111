@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Have a little peak of the type of songs i listen to
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ozoc0nw0j24yfbraisj2u2m4u)
-
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
