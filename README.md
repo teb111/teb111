@@ -5,7 +5,7 @@
 
 #### Hi, my name is
 
-# OLUWA TOBILOBA
+# OLUWATOBILOBA GABRIEL
 
 I am a Software Engineer
 
@@ -16,7 +16,7 @@ Reach out to me [Oluwa Tobiloba](https://tobilobaa.netlify.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23EAFEFF&size=18&center=true&vCenter=true&lines=I+Build+Things+That+Live+On+the+WEB+)](https://git.io/typing-svg)
 
-🌱 I’m currently learning PYTHON
+🌱 I’m currently learning C#
 
 
 
